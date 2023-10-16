@@ -64,6 +64,11 @@ flutter:
     - images/ass2.jpg
     - images/ass3.jpeg
     - images/ass4.jpg
+    - images/pokemon.jpg
+    - images/p1.jpg
+    - images/p2.jpg
+    - images/p3.jpg
+    - images/p4.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
